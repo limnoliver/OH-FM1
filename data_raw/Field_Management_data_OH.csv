@@ -1,0 +1,27 @@
+wateryear,date,activity_group,activity,current_crop,last_year_crop
+13,10/15/2012,harvest,soybeans harvested,soybeans,corn
+13,10/20/2012,fertilizer application,150 lbs of P&K,soybeans,corn
+13,11/20/2012,cultivation,Deep Ripped,soybeans,corn
+13,5/1/2013,planting,planted corn,corn,soybeans
+13,5/15/2013,fertilizer application,ATT 200 lbs,corn,soybeans
+14,10/9/2013,harvest,corn harvested,corn,soybeans
+14,5/6/2014,planting,soybeans planted,soybeans,corn
+15,10/6/2014,harvest,soybeans harvested,soybeans,corn
+15,10/12/2014,fertilizer application,150 lbs of P&K,soybeans,corn
+15,10/20/2014,cultivation,Deep Ripped,soybeans,corn
+15,4/15/2015,cultivation,Broadcast and Deep Ripped,soybeans,corn
+15,4/16/2015,planting,planted corn,corn,soybeans
+15,4/17/2015,fertilizer application,3 gal on seed starter,corn,soybeans
+16,10/15/2015,harvest,corn harvested,corn,soybeans
+16,11/12/2015,cultivation,turbo till,corn,soybeans
+16,11/15/2015,fertilizer application,P&K 100/150 lb/ac,corn,soybeans
+16,5/15/2016,planting,planted soybeans,soybeans,corn
+17,10/15/2016,harvest,soybeans harvested,soybeans,corn
+17,10/17/2016,fertilizer application,Lime- VRT per Tri-State,soybeans,corn
+17,10/20/2016,planting,wheat flown in,soybeans,corn
+17,4/15/2017,cultivation,field cultivation,corn,soybeans
+17,4/19/2017,Planting,planted corn,corn,soybeans
+18,10/24/2017,harvest,harvested corn,corn,soybeans
+18,11/9/2017,planting,wheat flown in,corn,soybeans
+18,4/15/2018,planting,planted soybeans,soybeans,corn
+19,10/15/2018,harvested,harvested soybeans,soybeans,corn
